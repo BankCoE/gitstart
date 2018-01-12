@@ -10,7 +10,6 @@
 > Thanachat Jiaranai
 >> 5635512085
 ***
-ttttt
 
 
 
