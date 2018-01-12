@@ -11,5 +11,10 @@
 >> 5635512085
 ***
 
+```javascript
+var s = "Welcome to Foo project"
+alert(s);
+```
+
 
 
