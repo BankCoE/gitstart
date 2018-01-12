@@ -1,1 +1,3 @@
-# foo
+# foo project
+
+## My Foo
