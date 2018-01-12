@@ -2,4 +2,6 @@
 
 ## My Foo
 
-**git example**
+_git exam_
+~git exam~
+
