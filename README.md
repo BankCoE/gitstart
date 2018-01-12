@@ -3,9 +3,9 @@
 ## My Foo
 
 ***
-| ID | Name | Age |
+| ID | Firstname | Lastname |
 | ------- | ---------- | -------- |
-| 5635512085 | Thanachat | 23 |
+| 5635512085 | Thanachat | Jiaranai |
 ***
 > Thanachat Jiaranai
 >> 5635512085
