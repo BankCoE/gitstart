@@ -6,6 +6,7 @@ _git exam_
 ~git exam~
 ...
 | ID | Name | Age |
+| ------- | ---------- | -------- | 
 | 5635512085 | Thanachat | 23 |
 ===
 > Thanachat Jiaranai
