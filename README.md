@@ -1,4 +1,4 @@
-﻿![alt githublogo](https://image.flaticon.com/icons/png/512/25/25231.png "Start for Github"){:width="50%" height="50%"}
+﻿![alt githublogo](https://image.flaticon.com/icons/png/512/25/25231.png "Start for Github"){:height="50%" width="50%"}
 # Start for Github
 ## เริ่มต้นใช้งาน github
 ### Overviews
