@@ -106,7 +106,21 @@ git checkout bankdev
 ```
 git checkout -b bankdev
 ```
-> เป็นการสร้าง branch ใหม่ที่ชื่อว่า bankdev และย้ายไปยัง branch ใหม่ทันที
 
+> เป็นการสร้าง branch ใหม่ที่ชื่อว่า bankdev และย้ายไปยัง branch ใหม่ทันที
+### การนำไฟล์ใน branch อื่น มารวมกับ branch master
+เมื่อพัฒนางานหรือโปรเจคของเราใน branch อื่น ๆ เรียบร้อยแล้ว และเราต้องการนำมารวมกับ branch master ให้ใช้คำสั่ง
+```
+git checkout master
+```
+> ย้าย branch ไปยัง branch master
+```
+git merge bankdev
+```
+> เพื่อนำไฟล์ต่าง ๆ จาก branch bankdev มายัง branch master
+
+เพียงเท่านี้ งานหรือโปรเจคที่เราทำใน branch อื่น ๆ ก็มารวมใน branch master เรียบร้อยแล้ว
+
+[[...ย้อนกลับ Overview]](#overview)
 
 
