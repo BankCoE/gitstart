@@ -101,6 +101,7 @@ bankdev
 git checkout bankdev
 ```
 > เป็นการย้ายไปยัง branch ที่ชื่อว่า bankdev
+
 หรือ ถ้าหากเราต้องการสร้าง branch และเข้าไปยัง branch ใหม่ทันทีโดยไม่ต้องพิมพ์ 2 คำสั่ง ให้ใช้คำสั่ง
 ```
 git checkout -b bankdev
